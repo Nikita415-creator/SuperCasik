@@ -8,3 +8,9 @@ This game is created solely for entertainment purposes and does not involve play
 
 ВАЖНО!:
 Данная игра создана исключительно в развлекательных целяй и не предусматривает игры на реальные деньги или получение реального выигрыша! Игра не пропагандирует азартные игры и не призывает в них играть!
+
+Versions:
+[Windows](WindowsVersion.exe)
+[MacOS](MacOS_Version.dmg)
+[Android](AndroidVersion.apk)
+
